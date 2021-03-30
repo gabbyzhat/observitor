@@ -1,16 +1,16 @@
 [package]
-name = "{{PROJECTNAME}}"
+name = "observitor"
 version = "1.0.0"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/{{USERNAME}}/{{PROJECTNAME}}"
-documentation = "https://docs.rs/{{PROJECTNAME}}"
-description = "{{DESCRIPTION}}"
+repository = "https://github.com/gabbyzhat/observitor"
+documentation = "https://docs.rs/observitor"
+description = "Observer trait and handling"
 readme = "README.md"
 edition = "2018"
 keywords = []
 categories = []
 authors = [
-    "Yoshua Wuyts <yoshuawuyts@gmail.com>"
+    "Gabriel Engels <git@gabbyzhat.xyz>"
 ]
 
 [features]
